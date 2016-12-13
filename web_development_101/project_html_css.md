@@ -94,8 +94,14 @@ There are a couple of ways to go about doing this, but the simplest is this:
 *Submit a link below to the github repo with your files in it by using a pull request.  See the section on [Contributing](http://github.com/TheOdinProject/curriculum/blob/master/contributing.md) for how.  Please include your partner's github handle somewhere in the description if you had one and they would like attribution.*
 
 * Add your solution below this line!
+* [TchallaVII's solution (Easy)](https://github.com/TchallaVII) | [View in Browser](https://tchallavii.github.io/google-homepage/)
+* [demosthenes131's solution (Easy)] (https://github.com/nicolasqueen/google-homepage) | [View in Browser](https://cdn.rawgit.com/nicolasqueen/google-homepage/master/google.html)
+* [0elo's solution (Easy)] (https://github.com/0elo/the_odin_project/tree/master/google-homepage) | [View in Browser](https://cdn.rawgit.com/0elo/the_odin_project/1e6f659e2b3f96ba3c9044ca1b24c09896959c24/google-homepage/index.html)
+* [kookfromleduc's solution (Easy)] (https://github.com/kookfromleduc/google-homepage) | [View in Browser] (https://kookfromleduc.github.io/google-homepage/)
+* [jhforster's solution] (https://github.com/jhforster/fake-google-homepage) | [View in Browser] (https://jhforster.github.io/fake-google-homepage/)
+* [Kirby J's Solution](https://github.com/kboygit/the_odin_project/tree/master/powertest) | [View in Browser](https://rawgit.com/kboygit/the_odin_project/master/powertest/index.html)
+* [Siker001's Solution (Easy)](https://github.com/Siker001/google-homepage) | [View in Browser](https://siker001.github.io/google-homepage/)
 * [LeangSeu's Solution(Easy)] (https://github.com/leangseu/practice-css-html) | [View in Browser](https://cdn.rawgit.com/leangseu/practice-css-html/master/index.html)
-* [Kirby J's Solution](https://github.com/kboygit/powertest) | [View in Browser](https://kboygit.github.io/powertest/)
 * [AHollyer's Solution](https://github.com/ahollyer/google-homepage) | [View in Browser](https://rawgit.com/ahollyer/google-homepage/master/index.html)
 * [Paweł R's Solution](https://github.com/PawelRokosz/google-homepage) | [View in Browser](http://htmlpreview.github.io/?https://github.com/PawelRokosz/google-homepage/blob/master/index.html)
 * [Kofmann's solution](https://github.com/kofmann/google-homepage)
@@ -915,7 +921,7 @@ https://rawgit.com/lyhbarry/google-homepage/master/index.html)
 * [Dustin Seright's Solution (Easy)](https://github.com/dseright/google_homepage) | [View in Browser](https://cdn.rawgit.com/dseright/google_homepage/master/index.html)
 [Stefan P's Solution (Easy)](https://github.com/spavikevik/google-homepage) | [View in Browser](https://rawgit.com/spavikevik/google-homepage/master/index.html)
 * [Stefan P's Solution (Easy)](https://github.com/spavikevik/google-homepage) | [View in Browser](https://rawgit.com/spavikevik/google-homepage/master/index.html)
-* [Siddharth Isaiah's Solution (Easy)](https://github.com/siddharthisaiah/google-homepage) | [View in Browser](https://rawgit.com/siddharthisaiah/google-homepage/master/homepage.html)
+* [Siddharth Isaiah's Solution (Easy)](https://github.com/siddharthisaiah/the_odin_project/tree/master/web_development_101/google-homepage) | [View in Browser](https://rawgit.com/siddharthisaiah/the_odin_project/master/web_development_101/google-homepage/homepage.html)
 * [nmac's Solution (Easy)](https://github.com/nmacawile/google/tree/master/google-homepage) | [(Difficult)](https://github.com/nmacawile/google/tree/master/google-searchpage)| [View in Browser (Easy)](https://rawgit.com/nmacawile/google/master/google-homepage/index.html) | [View in Browser (Difficult)](https://rawgit.com/nmacawile/google/master/google-searchpage/index.html)
 * [Arturo's Solution (Easy & Difficult)](https://github.com/ArturoRuge/google-homepage) | [View in Browser (Easy)](https://rawgit.com/ArturoRuge/google-homepage/master/index.html) | [View in Browser (Difficult)](https://rawgit.com/ArturoRuge/google-homepage/master/3version.html)
 * [Yusuf Ayo's Solution (Easy & Difficult)](https://github.com/haywhyze/google-homepage) | [View in Browser (Easy)](https://haywhyze.github.io/google-homepage/) | [View in Browser (Difficult)](https://haywhyze.github.io/google-homepage/difficult_version/)
@@ -932,6 +938,7 @@ https://rawgit.com/lyhbarry/google-homepage/master/index.html)
 * [mmore21's Solution (Easy)](https://github.com/mmore21/google-homepage/) | [View in Browser](https://mmore21.github.io/google-homepage/)
 * [egg303's Solution (Easy)](https://github.com/egg303/google-homepage) | [View in Browser](https://egg303.github.io/google-homepage/)
 * [Kumelachew Abera's Solution](https://github.com/Kumelachew/google-homepage) | [View in Browser](https://kumelachew.github.io/google-homepage/)
+* [chanjman's Solution](https://github.com/chanjman/google-homepage) | [View in Browser](https://chanjman.github.io/google-homepage/)
 
 
 ## Additional Resources

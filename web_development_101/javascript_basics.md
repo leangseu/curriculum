@@ -32,6 +32,10 @@ This lesson will tend to focus on understanding the programming side of Javascri
 *Submit a link to the github repo with your files in it here with a pull request.  Please include your partner's github handle somewhere in the description if they would like attribution*
 
 * Add your solution below this line!
+* [mrjsykes's solution to Problem 1](https://github.com/johndsykes86/ProjectEuler/blob/master/EulerProblem1.js)
+* [0elo's solution](https://github.com/0elo/the_odin_project/tree/master/js-101)
+* [Kboy's solution](https://github.com/kboygit/the_odin_project/blob/master/euler/euler1.js) | [View in browser](https://rawgit.com/kboygit/the_odin_project/master/euler/index.html)
+* [Sanya Verma's solution](https://github.com/ErisedKT/TheEulerProject)
 * [Sherman Bowling's solution to 1 & 2](https://github.com/janus0/the_odin_project/tree/master/euler-problems)
 * [Alexander Chalk's solution](https://github.com/adc17/project-euler-solutions/blob/master/problem-1.js)
 * [Aarti's Solution to 1  & 2](https://github.com/aarti27/javascript)
@@ -406,6 +410,7 @@ This lesson will tend to focus on understanding the programming side of Javascri
 * [Øistein Haugland's Solution](https://github.com/oisteinhaugland/euler-problems) | [View in Browser] (https://oisteinhaugland.github.io/euler-problems/)
 * [Yury Tomilin's Solution] (https://github.com/reitzy/project-euler-js)
 * [Oliver Potter's Solution](https://github.com/ol4er/euler/blob/master/EULER1.JS)
+* [Siker001's Solution](https://github.com/Siker001/js-basics-Problem1)
 
 
 ## Additional Resources
