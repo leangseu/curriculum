@@ -61,8 +61,8 @@ Also, don't worry about making the comment form work properly... your goal is to
 * [Lani's solution](https://github.com/laniywh/the-odin-project/tree/master/html5-css3/embed-youtube-video) | [View in browser](https://htmlpreview.github.io/?https://github.com/laniywh/the-odin-project/blob/master/html5-css3/embed-youtube-video/index.html)
 * [Earth35's solution](https://github.com/Earth35/embedding/blob/master/video_page.html) | [View in browser](https://htmlpreview.github.io/?https://github.com/Earth35/embedding/blob/master/video_page.html)
 * [Shala Qweghen's solution](https://github.com/ShalaQweghen/youtube_clone) | [View in browser](https://htmlpreview.github.io/?https://github.com/ShalaQweghen/youtube_clone/blob/master/index.html)
-
-
+* [Leonard's solution](https://github.com/Kr0ntar/youtube-clone) | [View in browser](https://kr0ntar.github.io/youtube-clone/index.html)
+* [Adonias Dantas's solution](https://github.com/adoniasdantas/embedding-images-and-video) | [View in browser](https://adoniasdantas.github.io/embedding-images-and-video/)
 ## Additional Resources
 
 *This section contains helpful links to other content. It isn't required, so consider it supplemental for if you need to dive deeper into something*

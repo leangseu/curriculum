@@ -19,10 +19,15 @@ Because you'll be doing so much stuff that we haven't taught you yet, this is a 
 *Submit a link below to the github repo with your files in it by using a pull request.  See the section on [Contributing](http://github.com/TheOdinProject/curriculum/blob/master/contributing.md) for how.  Please include your partner's github handle somewhere in the description if you had one and they would like attribution.*
 
 * Add your solution below this line!
+* [sofiegraham's Solution](https://github.com/sofiegraham/blograils) | [View in Browser](https://still-savannah-75438.herokuapp.com/)
+* [Nikolay Dyulgerov's Solution](https://github.com/NicolayD/rails-blogger/tree/master/blogger) | [View in Browser](https://rorblogger.herokuapp.com/)
+* [Benjamin_Res Solution] (https://github.com/Benjamin-Re/Rails.git)
+* [John Phelps's Solution](https://github.com/jphelps413/blogger) | [View in Browser](https://gentle-anchorage-58837.herokuapp.com/)
+* [Yash Anand's Solution](https://github.com/yashanand1910/simple-blog-system.git) | [View in Browser](https://blogger2-app.herokuapp.com/)
 * [Václav Škvařil's Solution](https://github.com/Vasha22/Blogger-Project) | [View in Browser](https://pure-shore-59740.herokuapp.com/)
 * [ayushka's solution](https://github.com/ayushkamadji/blogger) | [View in Browser](https://arcane-oasis-82234.herokuapp.com/)
 * [Chad Kreutzer's Solution](https://github.com/ChadKreutzer/blogger) | [View in browser](https://infinite-anchorage-76552.herokuapp.com/)
-* [Siddharth Isaiah's Solution](https://github.com/siddharthisaiah/blogger2)
+* [Siddharth Isaiah's Solution](https://github.com/siddharthisaiah/the_odin_project/tree/master/web_development_101/blogger)
 * [Jib's solution](https://github.com/NuclearMachine/OdinTasks/tree/master/blogger) | [View in browser](https://ancient-sierra-59262.herokuapp.com/)
 * [Paul Dariye's solution](https://github.com/pauldd91/theodinproject/tree/master/blogger)
 * [Allen's solution](https://github.com/NoRest4AWhearry/blogger) | [View in browser](http://jsblogger2.herokuapp.com/)
@@ -206,6 +211,10 @@ Because you'll be doing so much stuff that we haven't taught you yet, this is a 
 * [Alan Cruse's Solution](https://github.com/ADECruse/project-rails)
 * [NIÑO MOLLANEDA's Solution](https://github.com/ninoM/blogger) | [View in Browser](https://stark-spire-65556.herokuapp.com/)
 * [Dustin Seright's Solution](https://github.com/dseright/rails_project) | [View in Browser](https://boiling-beyond-55901.herokuapp.com/) 
+* [Dan Sack's Solution](https://github.com/DanPete/blogger) | [View in Browser](https://pacific-ridge-35157.herokuapp.com/) 
+* [egg303's Solution](https://github.com/egg303/Blogger) | [View in Browser](https://fierce-forest-55091.herokuapp.com/)
+* [Robert Szabo's Solution](https://github.com/Siker001/top_101_rails) | [View in Browser](https://boiling-everglades-88287.herokuapp.com/)
+* [Parker Brown's Solution](https://github.com/parkerjbrown/blogger) | [View in Browser](https://mighty-beyond-86851.herokuapp.com/)
 
 
 ## Additional Resources

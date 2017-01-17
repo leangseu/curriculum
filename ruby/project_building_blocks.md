@@ -40,6 +40,8 @@ Implement a caesar cipher that takes in a string and the shift factor and then o
 *[Submit a link](http://github.com/TheOdinProject/curriculum/blob/master/contributing.md) to the github repo with your files in it here with a pull request.  Please include your partner's github handle somewhere in the description if they would like attribution.*
 
 * Add your solution below this line!
+* [John Phelps's solution](https://github.com/jphelps413/odin-ruby/blob/master/building-blocks/caesar_cipher.rb)
+* [Sean Friedman's](https://github.com/seanfriedman89/building_blocs/blob/master/ceasar_cipher.rb)
 * [Jib's Solution](https://github.com/NuclearMachine/OdinTasks/blob/master/caesar_cipher/caesar.rb)
 * [Chad Kreutzer's solution](https://github.com/ChadKreutzer/ruby_building_blocks/blob/master/caesar_cipher/caesar_cipher.rb)
 * [Joey Li's solution](https://github.com/joeyzaozaoli/the_odin_project/blob/master/caesar_cipher.rb)
@@ -290,9 +292,15 @@ Implement a caesar cipher that takes in a string and the shift factor and then o
 * [Daniel Chinedu's solution](https://repl.it/EP76)
 * [Behdad Analui's solution](https://github.com/banalui/caesar_cipher_ruby)
 * [Kaique "Rique" Borges' solution](https://github.com/riquekaique/ruby-building-blocks/blob/master/caesar_cypher.rb)
-* [Siddharth Isaiah's solution](https://github.com/siddharthisaiah/ruby_building_blocks/blob/master/ceaser_cipher.rb)
+* [Siddharth Isaiah's solution](https://github.com/siddharthisaiah/the_odin_project/blob/master/ruby_programming/ruby_building_blocks/caeser_cipher.rb)
 * [Ryan Barnett's solution](https://github.com/RyanDBarnett/Odin-Ruby/blob/master/ruby_building_blocks/caesar_cipher/cipher.rb)
 * [NIÑO MOLLANEDA's solution](https://github.com/ninoM/caesar_cipher)
+* [nmac's solution](https://github.com/nmacawile/ruby_building_blocks/blob/master/caesar_cipher.rb)
+* [Alan Cruse's solution](https://github.com/ADECruse/caesar-cipher.git)
+* [Roan Fourie's solution](https://github.com/RoanFourie/top-ruby-prog/blob/master/caesars_cipher.rb)
+* [Robert Szabo's solution](https://github.com/Siker001/the_odin_project_exercises/tree/master/ruby/building_blocks/caesar_cipher)
+* [Rai Lee's solution](https://github.com/thisisrai/ruby_building_blocks/blob/master/caesar_cipher.rb)
+* [Dan Sack's solution](https://github.com/DanPete/Ruby_Exercises/blob/master/OdinLearnRuby/cipher.rb)
 
 ## Project 2: Stock Picker
 
@@ -315,6 +323,8 @@ Implement a method `#stock_picker` that takes in an array of stock prices, one f
 *[Submit a link](http://github.com/TheOdinProject/curriculum/blob/master/contributing.md) to the github repo with your files in it here with a pull request.  Please include your partner's github handle somewhere in the description if they would like attribution.*
 
 * Add your solution below this line!
+* [John Phelps's solution](https://github.com/jphelps413/odin-ruby/blob/master/building-blocks/stock_picker.rb)
+* [Sean Friedman's solution](https://github.com/seanfriedman89/building_blocs/blob/master/stock_picker.rb)
 * [Chad Kreutzer's solution](https://github.com/ChadKreutzer/ruby_building_blocks/blob/master/stock_picker/stock_picker.rb)
 * [Josh Vogel's solution](https://github.com/j-vogel/ruby_learning_projects/blob/master/stock_picker.rb)
 * [Austin Norman's solution](https://github.com/austinnormancore/ruby_basics_project/blob/master/stock_picker.rb)
@@ -545,9 +555,17 @@ Implement a method `#stock_picker` that takes in an array of stock prices, one f
 * [Braydon Pacheco's solution](https://github.com/pacheeko/ruby_stock/blob/master/stock.rb)
 * [Behdad Analui's solution](https://github.com/banalui/stock_picker_ruby)
 * [Kaique "Rique" Borges' solution](https://github.com/riquekaique/ruby-building-blocks/blob/master/stock_picker.rb)
-* [Siddharth Isaiah's solution](https://github.com/siddharthisaiah/ruby_building_blocks/blob/master/stock_picker.rb)
+* [Siddharth Isaiah's solution](https://github.com/siddharthisaiah/the_odin_project/blob/master/ruby_programming/ruby_building_blocks/stock_picker.rb)
 * [Ryan Barnett's solution](https://github.com/RyanDBarnett/Odin-Ruby/blob/master/ruby_building_blocks/stock_picker/picker.rb)
 * [NIÑO MOLLANEDA's solution](https://github.com/ninoM/stock_picker)
+* [nmac's solution](https://github.com/nmacawile/ruby_building_blocks/blob/master/stock_picker.rb)
+* [Alan Cruse's solution](https://github.com/ADECruse/stock-picker.git)
+* [Roan Fourie's solution](https://github.com/RoanFourie/top-ruby-prog/blob/master/stock_picker.rb)
+* [Robert Szabo's solution](https://github.com/Siker001/the_odin_project_exercises/tree/master/ruby/building_blocks/stock_picker)
+* [Rai Lee's solution](https://github.com/thisisrai/ruby_building_blocks/blob/master/stock_picker.rb)
+* [husein's solution] (https://github.com/hosghf/Stock_Picker/blob/master/stock_picker.rb)
+* [Dan Sack's solution] (https://github.com/DanPete/Ruby_Exercises/blob/master/OdinLearnRuby/stock_picker.rb)
+
 
 ## Project 3: Substrings
 
@@ -579,6 +597,8 @@ Next, make sure your method can handle multiple words:
 *[Submit a link](http://github.com/TheOdinProject/curriculum/blob/master/contributing.md) to the github repo with your files in it here with a pull request.  Please include your partner's github handle somewhere in the description if they would like attribution.*
 
 * Add your solution below this line!
+* [John Phelps's solution](https://github.com/jphelps413/odin-ruby/blob/master/building-blocks/substrings.rb)
+* [Sean Friedman's solution](https://github.com/seanfriedman89/building_blocs/blob/master/substring.rb)
 * [Jib's Solution](https://github.com/NuclearMachine/OdinTasks/blob/master/substrings/substrings.rb)
 * [Chad Kreutzer's solution](https://github.com/ChadKreutzer/ruby_building_blocks/blob/master/substrings/substrings.rb)
 * [Josh Vogel's solution](https://github.com/j-vogel/ruby_learning_projects/blob/master/substrings.rb)
@@ -807,6 +827,12 @@ Next, make sure your method can handle multiple words:
 * [Daniel Chinedu's solution](https://repl.it/EP76/1)
 * [Behdad Analui's solution](https://github.com/banalui/substrings_ruby)
 * [Kaique "Rique" Borges' solution](https://github.com/riquekaique/ruby-building-blocks/blob/master/substrings.rb)
-* [Siddharth Isaiah's solution](https://github.com/siddharthisaiah/ruby_building_blocks/blob/master/substrings.rb)
+* [Siddharth Isaiah's solution](https://github.com/siddharthisaiah/the_odin_project/blob/master/ruby_programming/ruby_building_blocks/substrings.rb)
 * [Ryan Barnett's solution](https://github.com/RyanDBarnett/Odin-Ruby/blob/master/ruby_building_blocks/substrings/substrings.rb)
 * [NIÑO MOLLANEDA's solution](https://github.com/ninoM/substrings)
+* [nmac's solution](https://github.com/nmacawile/ruby_building_blocks/blob/master/substrings.rb)
+* [Roan Fourie's solution](https://github.com/RoanFourie/top-ruby-prog/blob/master/substrings.rb)
+* [Robert Szabo's solution](https://github.com/Siker001/the_odin_project_exercises/tree/master/ruby/building_blocks/substrings)
+* [Rai Lee's solution](https://github.com/thisisrai/ruby_building_blocks/blob/master/substrings.rb)
+* [husein's solution](https://github.com/hosghf/substring_ruby_building_blocks/blob/master/substring.rb)
+* [Dan Sack's solution](https://github.com/DanPete/Ruby_Exercises/blob/master/OdinLearnRuby/substrings.rb)
